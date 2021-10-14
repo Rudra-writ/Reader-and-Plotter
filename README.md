@@ -1,5 +1,5 @@
 # Reader-and-Plotter
-Reads measurement values, plots it and saves the data into a file
+Reads measurement values, plots it and saves the data into a file.
 
 The program is usable for analysis and storing of Laboratory test results.
 
