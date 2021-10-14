@@ -34,7 +34,7 @@ class functions:
         print("Some error occured")
         
     def PayListDataset():
-        data = pd.read_csv('D:/data.csv')
+        data = pd.read_csv('Path to CSV file')
         values = data.to_numpy()
         x = values[:,0]
         y = values[:,1]
